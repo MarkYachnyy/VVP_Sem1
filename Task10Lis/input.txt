@@ -1,0 +1,13 @@
+[
+	{"district":"VSHI",
+	"room_count":3,
+	"area":200,
+	"kitchen_area":30,
+	"price":3000000},
+
+	{"district":"Shilovo",
+	"room_count":4,
+	"area":250,
+	"kitchen_area":30,
+	"price":4000000}
+]
